@@ -20,7 +20,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&label=Profile+Views&color=6E40C9&style=flat-square" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=dkzinz&label=Profile+Views&color=6E40C9&style=flat-square" alt="Views">
   
 </div>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinz&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9">
 
 </div>
 
@@ -71,19 +71,19 @@
 <div align="center">
 
 <a href="[link-repo1]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[REPO1]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO1]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
 </a>
 <a href="[link-repo2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[REPO2]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO2]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
 </a>
 
 <br>
 
 <a href="[link-repo3]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[REPO3]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO3]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
 </a>
 <a href="[link-repo4]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[REPO4]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO4]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
 </a>
 
 </div>
