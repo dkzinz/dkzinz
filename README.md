@@ -20,7 +20,7 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&label=Profile+Views&color=6E40C9&style=flat-square" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=[Lostx]&label=Profile+Views&color=6E40C9&style=flat-square" alt="Views">
   
 </div>
 
@@ -30,13 +30,13 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Lostx]&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9">
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME]&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Lostx]&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF" width="95%">
 </div>
 
 <br>
