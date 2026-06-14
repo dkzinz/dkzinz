@@ -4,7 +4,7 @@
   
   <br>
   
-  <a href="[link-portfolio]">
+  <a href="[[link-portfolio]](https://lostx-dev.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=6E40C9">
   </a>
   <a href="mailto:[seuemail]">
