@@ -67,7 +67,7 @@
 <div align="center">
 
 <a href="[link-repo1]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO1]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=https://github.com/dkzinz/PXBR-Tools&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
 </a>
 <a href="[link-repo2]">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=[REPO2]&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" width="45%">
