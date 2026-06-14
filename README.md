@@ -2,10 +2,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Lostx&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%">
   
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Clean+Code+%7C+Boas+Práticas" alt="Typing SVG">
-  </h3>
-  
   <br>
   
   <a href="[link-portfolio]">
