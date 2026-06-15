@@ -108,12 +108,12 @@ export default shinobi;
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=c9d1d9&ring_color=ff2d55&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=dkzinz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=c9d1d9&ring_color=ff2d55&include_all_commits=true&count_private=true"
     height="180"
     alt="stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&text_color=c9d1d9&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&text_color=c9d1d9&langs_count=8"
     height="180"
     alt="top-langs"
   />
@@ -121,7 +121,7 @@ export default shinobi;
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dkzinz&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55"
     alt="streak"
   />
 </div>
@@ -134,7 +134,7 @@ export default shinobi;
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=dkzinz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"
     alt="trophies"
   />
 </div>
