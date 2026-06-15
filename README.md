@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Principal -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3082,100:b388ff&height=250&section=header&text=⟨%20YUKI%20/%20DEV%20⟩&fontSize=60&fontColor=e4c1f9&fontAlignY=35&desc=フルスタック開発者%20%20|%20%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3082,100:b388ff&height=250&section=header&text=⟨%20Lostx%20/%20DEV%20⟩&fontSize=60&fontColor=e4c1f9&fontAlignY=35&desc=フルスタック開発者%20%20|%20%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
