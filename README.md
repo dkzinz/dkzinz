@@ -254,7 +254,7 @@ const developer = {
 <a href="https://twitter.com/SEU-TWITTER" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=x&logoColor=b388ff&labelColor=0d1117"/>
 </a>
-<a href="https://seuportfolio.com" target="https://lostx-dev.vercel.app/">
+<a href="https://lostx-dev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=b388ff&labelColor=0d1117"/>
 </a>
 
