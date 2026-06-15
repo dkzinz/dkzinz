@@ -1,8 +1,3 @@
-Entendido. Vou te entregar o código **completo, corrigido e otimizado**, unindo o visual **Minimalista Dark Anime** com a estrutura que não quebra.
-
-Aqui está o arquivo pronto para copiar e colar:
-
-```markdown
 <!-- HEADER -->
 <div align="center">
   <!-- Banner principal - Capsule Render -->
