@@ -1,8 +1,3 @@
-# README.md — Full Stack Dev | Tema Anime Dark 🌑⚔️
-
-Aqui está o código completo. Basta copiar e colar no seu `README.md` do GitHub:
-
-```markdown
 <div align="center">
 
 # ⚔️ FULL STACK DEVELOPER ⚔️
