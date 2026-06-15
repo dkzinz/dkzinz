@@ -158,35 +158,6 @@ Aqui estão as ferramentas e tecnologias que uso para construir aplicações com
 </p>
 
 ---
-
-### 🚀 Projetos em Destaque
-
-Aqui estão alguns projetos que representam bem o meu trabalho como Full Stack.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinokame07&repo=SEU_REPOSITORIO_1&theme=dracula&hide_border=true)](https://github.com/hinokame07/SEU_REPOSITORIO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hinokame07&repo=SEU_REPOSITORIO_2&theme=dracula&hide_border=true)](https://github.com/hinokame07/SEU_REPOSITORIO_2)
-
----
-
-### 📬 Vamos nos conectar?
-
-Estou sempre aberto a conversar sobre tecnologia, novos projetos ou oportunidades de colaboração.
-
-<p>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://SEU_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-</div>
-
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hinokame07&color=blueviolet&style=flat-square&label=Visitas" alt="Contador de visitas">
 </div>
