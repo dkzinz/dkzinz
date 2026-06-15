@@ -1,6 +1,3 @@
-# README.md de Dev Full Stack com Temática Anime Dark
-
-```markdown
 <div align="center">
 
 <!-- Banner Principal -->
