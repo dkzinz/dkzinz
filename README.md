@@ -55,3 +55,264 @@ const developer = {
 
     motto: "In the darkness of the terminal, the code shines brightest ✧"
 };
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 「 ⚔️ 𝐖𝐄𝐀𝐏𝐎𝐍𝐒 𝐎𝐅 𝐂𝐇𝐎𝐈𝐂𝐄 ⚔️ 」
+### — 技術スタック —
+
+<br/>
+
+<!-- FRONTEND -->
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 — 前線
+</h3>
+
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <br/><b>HTML5</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★★-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <br/><b>CSS3</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★★-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br/><b>JavaScript</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★☆-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <br/><b>TypeScript</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★☆-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br/><b>React</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★☆-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
+
+<!-- BACKEND -->
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  𝐁𝐚𝐜𝐤𝐞𝐧𝐝 — 後方
+</h3>
+
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br/><b>Node.js</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★☆-6c3082?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  <br/><b>Express</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★☆☆-6c3082?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
+
+<!-- TOOLS -->
+<h3>
+  🛠️ 𝐓𝐨𝐨𝐥𝐬 — 道具
+</h3>
+
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br/><b>Git</b>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br/><b>GitHub</b>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+  <br/><b>VS Code</b>
+</td>
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <br/><b>Figma</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 「 📊 𝐒𝐓𝐀𝐓𝐒 — 統計 」
+
+<br/>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/SEU-USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&text_color=c9d1d9&border_color=6c3082&hide_border=false&langs_count=8"/>
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/SEU-USERNAME">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=midnight-purple&background=0d1117&ring=b388ff&fire=e4c1f9&currStreakLabel=b388ff&sideLabels=b388ff&border=6c3082" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/SEU-USERNAME">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USERNAME&bg_color=0d1117&color=b388ff&line=6c3082&point=e4c1f9&area=true&area_color=6c3082&hide_border=false&custom_title=%E2%9C%A7%20Contribution%20Graph%20%E2%9C%A7" alt="Activity Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 「 🏯 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 — プロジェクト 」
+
+<br/>
+
+<a href="https://github.com/SEU-USERNAME/projeto-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=REPO-NAME-1&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
+</a>
+<a href="https://github.com/SEU-USERNAME/projeto-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=REPO-NAME-2&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 「 🎌 𝐐𝐔𝐎𝐓𝐄 — 引用 」
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=The%20world%20is%20not%20beautiful%2C%20therefore%20it%20is.&author=Kino%20no%20Tabi&border=true"/>
+
+<br/>
+
+> *"人は何かの犠牲なしに何も得ることはできない"*
+> 
+> *"One cannot gain anything without first giving something in return."*
+> 
+> — **Fullmetal Alchemist** ⚗️
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 「 🌙 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 — 接続 」
+
+<br/>
+
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=b388ff&labelColor=0d1117"/>
+</a>
+<a href="mailto:seuemail@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=b388ff&labelColor=0d1117"/>
+</a>
+<a href="https://discord.gg/SEU-DISCORD" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=b388ff&labelColor=0d1117"/>
+</a>
+<a href="https://twitter.com/SEU-TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=x&logoColor=b388ff&labelColor=0d1117"/>
+</a>
+<a href="https://seuportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=b388ff&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&color=6c3082&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡟⠁⠈⢻⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀
+⠀⠀⣰⣿⣿⣿⣿⣿⣿⡏⠀⠀✦⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀
+⠀⢰⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀
+⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+⠀⢸⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⡇⠀⠀
+⠀⠘⣿⣿⣿⡿⠋⠀⠀⠀⠙⠿⣿⣿⠿⠋⠀⠀⠀⠙⢿⣿⣿⣿⠃⠀⠀
+⠀⠀⠹⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⠏⠀⠀⠀
+⠀⠀⠀⠈⠀⠀⠀ ᴄᴏᴅᴇ ɪɴ ᴛʜᴇ ᴅᴀʀᴋ ⠀⠀⠀⠀⠈⠀⠀⠀⠀
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/-✦%20闇の中でコードを書く%20✦-0d1117?style=for-the-badge&labelColor=6c3082"/>
+
+<br/><br/>
+
+*⟨ Made with 💜 and mass amounts of ☕ at 3AM ⟩*
+
+*⟨ "The best code is written when the world sleeps" ⟩*
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,50:6c3082,100:0d1117&height=120&section=footer"/>
+```
+
+O resultado terá **ondas roxas no header/footer**, **tabelas estilizadas com ícones**, **stats roxos**, **ASCII art**, **texto em japonês** e uma vibe **anime dark** completa! 🌙
