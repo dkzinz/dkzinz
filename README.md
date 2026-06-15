@@ -40,7 +40,7 @@
 ```typescript
 // 🌑 dev.config.ts
 interface Developer {
-  name: Lostx;
+  name: string;
   role: string;
   clan: string;
   chakraNature: string[];
@@ -48,7 +48,7 @@ interface Developer {
 }
 
 const shinobi: Developer = {
-  name: "Seu Nome Aqui",
+  name: "Lostx",
   role: "Full Stack Developer",
   clan: "Code Village 🏯",
   chakraNature: ["React", "Node.js", "TypeScript"],
