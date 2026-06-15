@@ -314,5 +314,3 @@ const developer = {
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,50:6c3082,100:0d1117&height=120&section=footer"/>
 ```
-
-O resultado terá **ondas roxas no header/footer**, **tabelas estilizadas com ícones**, **stats roxos**, **ASCII art**, **texto em japonês** e uma vibe **anime dark** completa! 🌙
