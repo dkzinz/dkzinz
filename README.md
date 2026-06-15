@@ -1,8 +1,3 @@
-# 🌑 README.md — Dark Anime Full Stack Dev
-
-Aqui está o código completo. Basta copiar, colar no seu `README.md` e substituir os placeholders (`seu-usuario`, etc.):
-
-```markdown
 <!-- ============================================================
      🌑 DARK ANIME FULL STACK DEV — README.md
      Tema: Anime Dark / Neon Cyberpunk
@@ -42,7 +37,7 @@ Aqui está o código completo. Basta copiar, colar no seu `README.md` e substitu
 <!-- ═══════════════ SOBRE MIM ═══════════════ -->
 ## 🩸 〢 Sobre Mim
 
-```typescript
+typescript
 // 🌑 dev.config.ts
 interface Developer {
   name: string;
@@ -61,7 +56,6 @@ const shinobi: Developer = {
 };
 
 export default shinobi;
-```
 
 <div align="center">
 
