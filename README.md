@@ -17,7 +17,7 @@
 
 ## 🗡️ Sobre o Shinobi do Código
 
-```typescript
+typescript
 const shinobi = {
   name: "Seu Nome",
   rank: "Full Stack Developer - Rank S",
@@ -30,7 +30,6 @@ const shinobi = {
   mission: "Dominar o mundo da programação, uma linha de código por vez ⚔️",
   quote: "明日の自分は今日より強い"
 };
-```
 
 ---
 
