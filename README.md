@@ -179,14 +179,14 @@ const developer = {
 
 <!-- Streak Stats -->
 <a href="https://github.com/SEU-USERNAME">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=midnight-purple&background=0d1117&ring=b388ff&fire=e4c1f9&currStreakLabel=b388ff&sideLabels=b388ff&border=6c3082" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkzinz&theme=midnight-purple&background=0d1117&ring=b388ff&fire=e4c1f9&currStreakLabel=b388ff&sideLabels=b388ff&border=6c3082" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/SEU-USERNAME">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USERNAME&bg_color=0d1117&color=b388ff&line=6c3082&point=e4c1f9&area=true&area_color=6c3082&hide_border=false&custom_title=%E2%9C%A7%20Contribution%20Graph%20%E2%9C%A7" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkzinz&bg_color=0d1117&color=b388ff&line=6c3082&point=e4c1f9&area=true&area_color=6c3082&hide_border=false&custom_title=%E2%9C%A7%20Contribution%20Graph%20%E2%9C%A7" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -202,10 +202,10 @@ const developer = {
 <br/>
 
 <a href="https://github.com/SEU-USERNAME/projeto-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=REPO-NAME-1&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=REPO-NAME-1&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
 <a href="https://github.com/SEU-USERNAME/projeto-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=REPO-NAME-2&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=REPO-NAME-2&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
 
 </div>
@@ -261,21 +261,21 @@ const developer = {
 <br/><br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&color=6c3082&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=dkzinz&color=6c3082&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
 
 <br/><br/>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dkzinz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -313,4 +313,3 @@ const developer = {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,50:6c3082,100:0d1117&height=120&section=footer"/>
-```
