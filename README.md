@@ -179,7 +179,6 @@ const persona = {
 
 <!-- ANIME DARK FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1f1147,100:00D4FF&height=130&section=footer&text=&animation=fadeIn&fontAlignY=50" />
-```
 
 ---
 
@@ -188,7 +187,7 @@ const persona = {
 Se quiser a “cobra” funcionando, crie:
 
 **`.github/workflows/snake.yml`**
-```yaml
+yaml
 name: Generate Snake
 
 on:
@@ -213,7 +212,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
