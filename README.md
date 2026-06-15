@@ -35,28 +35,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════ SOBRE MIM ═══════════════ -->
-## 🩸 〢 Sobre Mim
+<div align="center">
 
-```typescript
-// 🌑 dev.config.ts
-interface Developer {
-  name: string;
-  role: string;
-  clan: string;
-  chakraNature: string[];
-  mission: string;
-}
+| 🥷 **Status do Shinobi** | 📜 **Detalhes** |
+| :--- | :--- |
+| **Nome** | Seu Nome Aqui |
+| **Classe** | Full Stack Developer |
+| **Vila Oculta** | TypeScript, React & Node.js |
+| **Missão Rank-S** | Construir aplicações que transcendem o ordinário |
 
-const shinobi: Developer = {
-  name: "Lostx",
-  role: "Full Stack Developer",
-  clan: "Code Village 🏯",
-  chakraNature: ["React", "Node.js", "TypeScript"],
-  mission: "Construir aplicações que transcendem o ordinário",
-};
-
-export default shinobi;
-```
+</div>
 
 <div align="center">
 
