@@ -1,6 +1,3 @@
-# README.md de Dev Full Stack com Temática Anime Dark
-
-```markdown
 <div align="center">
 
 <!-- Banner Principal -->
@@ -35,7 +32,7 @@
 
 </div>
 
-```js
+js
 // ⛩️ developer.js — 開発者プロフィール
 
 const developer = {
@@ -58,7 +55,6 @@ const developer = {
 
     motto: "In the darkness of the terminal, the code shines brightest ✧"
 };
-```
 
 <br/>
 
