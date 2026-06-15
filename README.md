@@ -40,7 +40,7 @@
 ```typescript
 // 🌑 dev.config.ts
 interface Developer {
-  name: string;
+  name: Lostx;
   role: string;
   clan: string;
   chakraNature: string[];
