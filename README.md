@@ -37,7 +37,7 @@
 <!-- ═══════════════ SOBRE MIM ═══════════════ -->
 ## 🩸 〢 Sobre Mim
 
-typescript
+```typescript
 // 🌑 dev.config.ts
 interface Developer {
   name: string;
@@ -56,6 +56,7 @@ const shinobi: Developer = {
 };
 
 export default shinobi;
+```
 
 <div align="center">
 
