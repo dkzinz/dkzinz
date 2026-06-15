@@ -171,8 +171,8 @@ const developer = {
 
 <!-- GitHub Stats -->
 <a href="https://github.com/dkzinz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&text_color=c9d1d9&border_color=6c3082&hide_border=false&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkzinz&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinz&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&text_color=c9d1d9&border_color=6c3082&hide_border=false&langs_count=8"/>
 </a>
 
 <br/><br/>
@@ -185,7 +185,7 @@ const developer = {
 <br/><br/>
 
 <!-- Activity Graph -->
-<a href="https://github.com/SEU-USERNAME">
+<a href="https://github.com/dkzinz">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkzinz&bg_color=0d1117&color=b388ff&line=6c3082&point=e4c1f9&area=true&area_color=6c3082&hide_border=false&custom_title=%E2%9C%A7%20Contribution%20Graph%20%E2%9C%A7" alt="Activity Graph"/>
 </a>
 
@@ -201,10 +201,10 @@ const developer = {
 
 <br/>
 
-<a href="https://github.com/SEU-USERNAME/projeto-1">
+<a href="https://github.com/dkzinz/projeto-1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PXBR-Tools&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
-<a href="https://github.com/SEU-USERNAME/projeto-2">
+<a href="https://github.com/dkzinz/projeto-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=REPO-NAME-2&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
 
@@ -267,8 +267,8 @@ const developer = {
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkzinz/dkzinz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dkzinz/dkzinz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake-dark.svg" />
 </picture>
 
