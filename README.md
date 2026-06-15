@@ -12,7 +12,6 @@
 <div align="center">
   
   ⚔️ 「限界を超える」⚔️
-  ```
 
 </div>
 
