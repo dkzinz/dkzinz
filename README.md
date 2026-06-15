@@ -36,7 +36,7 @@
 // ⛩️ developer.js — 開発者プロフィール
 
 const developer = {
-    name: "Seu Nome Aqui",
+    name: " Lostx ",
     title: "Full Stack Developer",
     location: "Brasil 🇧🇷",
     currentFocus: "Building dark & beautiful web apps",
