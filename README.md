@@ -1,12 +1,3 @@
-Aqui vai um **README.md completo** com temática **anime dark** (copie e cole). Depois é só trocar os placeholders.
-
----
-
-## ✅ README.md (anime dark)
-
-> Salve como `README.md`
-
-```markdown
 <!-- ANIME DARK HEADER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1f1147,100:7c3aed&height=220&section=header&text=ANIME%20DARK%20%2F%20FULL%20STACK&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -36,7 +27,7 @@ Aqui vai um **README.md completo** com temática **anime dark** (copie e cole). 
 <!-- ABOUT -->
 ## 🖤 Sobre mim
 
-```ts
+ts
 const persona = {
   vibe: "anime dark",
   role: "Full Stack Developer",
@@ -44,7 +35,6 @@ const persona = {
   philosophy: "performar bem + manter código limpo + entregar valor",
   quote: "Mesmo no escuro, todo bug tem um caminho de luz. 🗡️"
 };
-```
 
 - 🔭 Atualmente: construindo/iterando projetos Full Stack
 - 🌱 Estudando: **arquitetura, performance e boas práticas**
