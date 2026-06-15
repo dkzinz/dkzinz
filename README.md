@@ -1,10 +1,3 @@
-Com certeza! Vamos criar algo com uma estética **"Cyberpunk / Dark Anime"**. O foco será usar tons de preto, roxo neon e vermelho, com elementos visuais que remetem a animes de tecnologia ou suspense.
-
-Aqui está o código completo. Você só precisa copiar, colar no seu `README.md` e substituir onde diz `[SEU_USUARIO]`.
-
-### 🌑 O Código (README.md)
-
-```markdown
 <!-- 
   TEMA: ANIME DARK / CYBERPUNK
   CORES: Preto, Roxo Neon, Vermelho Sangue
@@ -109,39 +102,3 @@ Aqui está o código completo. Você só precisa copiar, colar no seu `README.md
   <b>Visitors Count</b><br>
   <img src="https://profile-counter.glitch.me/[SEU_USUARIO]/count.svg" />
 </p>
-```
-
----
-
-### 🛠️ Como configurar e personalizar
-
-Para que esse README funcione perfeitamente, siga estes passos:
-
-1.  **Substitua o Usuário:**
-    Use o `Ctrl + F` (ou `Cmd + F`) e procure por `[SEU_USUARIO]`. Substitua todas as ocorrências pelo seu nome de usuário real do GitHub (ex: `gabriel-dev`).
-
-2.  **Ajuste os Links Sociais:**
-    No código, procure por `linkedin.com/in/SEU_USUARIO` e `mailto:seuemail@gmail.com` e coloque seus links reais.
-
-3.  **A Estética "Anime Dark":**
-    *   **Cores:** Usei o tema `radical` nos cards de estatísticas e configurei as cores de fundo para `#0d1117` (o preto padrão do GitHub Dark Mode). Os acentos estão em **Roxo Neon** e **Vermelho**.
-    *   **Imagens:**
-        *   O **Banner** é uma imagem genérica de cyberpunk.
-        *   O **GIF** ao lado é da Lain (*Serial Experiments Lain*), um anime clássico sobre internet e tecnologia que combina muito com devs.
-        *   *Dica:* Se quiser trocar o GIF, procure no Giphy por "Anime Coding", "Cyberpunk Anime" ou "Glitch Anime" e substitua a URL no `src` da imagem.
-
-4.  **Ícones de Tecnologia:**
-    Usei a API [Skill Icons](https://skillicons.dev). Ela já está configurada com as tecnologias que você pediu: `html,css,js,ts,react,nodejs`. Se aprender mais (como Docker ou Python), basta adicionar o nome na lista separada por vírgulas.
-
-5.  **A Animação da Cobra (Snake Game):**
-    Para a animação da cobrinha comendo as contribuições funcionar, você precisa criar um **GitHub Action**.
-    *   Crie uma pasta `.github/workflows/` no seu repositório de perfil.
-    *   Crie um arquivo chamado `snake.yml`.
-    *   Cole o código da action (você pode pegar o código pronto no repositório [Platane/snk](https://github.com/Platane/snk)).
-    *   *Nota:* Se não quiser configurar isso agora, pode remover a seção "Contribution Graph" do código acima.
-
-### O que esse README tem de especial?
-*   **Layout em Tabela:** Mantém o texto e o GIF organizados lado a lado, sem quebrar em telas menores.
-*   **Efeito de Digitação:** O título muda sozinho, dando um ar dinâmico.
-*   **Cores Coesas:** Tudo segue o padrão escuro com neon, passando uma imagem profissional mas estilosa.
-*   **Foco nas Skills:** Destaque claro para React e Node, que é o que o mercado procura.
