@@ -43,12 +43,12 @@ const developer = {
     
     code: {
         frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
-        backend: ["Node.js", "Express"],
+        backend: ["Node.js"],
         learning: ["Next.js", "PostgreSQL", "Docker"],
     },
 
     anime: {
-        favorites: ["Death Note", "Tokyo Ghoul", "Attack on Titan"],
+        favorites: ["Sword art Online", "Hunter x Hunter", "Tokyo Revengers"],
         watching: "Solo Leveling",
         philosophy: "僕のヒーローアカデミア — Plus Ultra! 🔥"
     },
