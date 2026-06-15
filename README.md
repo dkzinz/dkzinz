@@ -96,7 +96,7 @@ const persona = {
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0b0f1a&color=00D4FF&line=7c3aed&point=00D4FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dkzinz&bg_color=0b0f1a&color=00D4FF&line=7c3aed&point=00D4FF&area=true&hide_border=true"
   />
 </div>
 
@@ -110,14 +110,14 @@ const persona = {
   <a href="https://github.com/SEU_USERNAME/PROJETO1">
     <img
       height="135em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO1&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PROJETO1&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
     />
   </a>
 
   <a href="https://github.com/SEU_USERNAME/PROJETO2">
     <img
       height="135em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=PROJETO2&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PROJETO2&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
     />
   </a>
 
@@ -156,25 +156,9 @@ const persona = {
 </div>
 
 <br/>
-
-<!-- SNAKE (OPCIONAL) -->
-## 🐍 Kira’s Code Snake (opcional)
-
-> Funciona via GitHub Actions (se você quiser). Se não quiser, apaga esta seção.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 <!-- VISITORS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00D4FF&style=for-the-badge&label=VISITANTES"/>
+  <img src="https://komarev.com/ghpvc/?username=dkzinz&color=00D4FF&style=for-the-badge&label=VISITANTES"/>
 </div>
 
 <!-- ANIME DARK FOOTER -->
