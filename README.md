@@ -114,20 +114,3 @@
 </table>
 
 <br>
-
----
-
-## ✦ Current Focus
-
-<br>
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 2025] --> B[🔷 TypeScript Avançado]
-    A --> C[🐳 Docker]
-    A --> D[☁️ AWS]
-    B --> E[Generics & Decorators]
-    C --> F[Multi-stage Builds]
-    D --> G[Lambda & S3]
