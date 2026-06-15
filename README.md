@@ -1,165 +1,256 @@
-<!-- ANIME DARK HEADER -->
+# 🌑 README.md — Dark Anime Full Stack Dev
+
+Aqui está o código completo. Basta copiar, colar no seu `README.md` e substituir os placeholders (`seu-usuario`, etc.):
+
+```markdown
+<!-- ============================================================
+     🌑 DARK ANIME FULL STACK DEV — README.md
+     Tema: Anime Dark / Neon Cyberpunk
+     Autor: Você
+     ============================================================ -->
+
+<!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1f1147,100:7c3aed&height=220&section=header&text=ANIME%20DARK%20%2F%20FULL%20STACK&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=⛩️%20Full%20Stack%20Developer&fontSize=42&fontColor=ff2d55&animation=fadeIn&fontAlignY=38&desc=Code%20is%20my%20jutsu&descAlignY=62&descSize=16"
+    width="100%"
+    alt="banner"
+  />
 </div>
 
-<!-- TYPING SVG -->
-<div align="center" style="margin-top: -10px;">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00D4FF&center=true&vCenter=true&random=false&width=720&lines=Seja+bem-vindo+%F0%9F%91%8C;React+%7C+TypeScript+%7C+Node.js+%E2%9A%A1;Construindo+APIs+que+brilham+como+efeito+especial+✨;Dark+mode+por+padr%C3%A3o+%F0%9F%A6%8A"
-      alt="typing"
-    />
-  </a>
+<!-- ═══════════════ TYPING SVG ═══════════════ -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D55&center=true&vCenter=true&random=false&width=520&lines=%E2%9A%94%EF%B8%8F+Full+Stack+Developer;%F0%9F%8C%91+Dark+Souls+of+Code;%F0%9F%94%A5+React+%7C+Node.js+%7C+TypeScript;%F0%9F%91%81%E2%80%8D%F0%9F%97%A8%EF%B8%8F+I+see+bugs+before+they+exist"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
 
-<!-- BADGES ROW -->
+<!-- ═══════════════ CITAÇÃO ANIME ═══════════════ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Mode-Dark-0b0f1a?style=for-the-badge&logo=ghost&logoColor=7c3aed"/>
-  <img src="https://img.shields.io/badge/Stack-React%20%2B%20Node-00D4FF?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Skills-TS%20%7C%20JS%20%7C%20HTML%20%7C%20CSS-1f1147?style=for-the-badge&logo=code&logoColor=ffffff"/>
+
+> *"People's lives don't end when they die. It ends when they lose faith."*
+> — **Itachi Uchiha** 🌙
+
 </div>
 
-<br/>
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT -->
-## 🖤 Sobre mim
+<!-- ═══════════════ SOBRE MIM ═══════════════ -->
+## 🩸 〢 Sobre Mim
 
-ts
-const persona = {
-  vibe: "anime dark",
+```typescript
+// 🌑 dev.config.ts
+interface Developer {
+  name: string;
+  role: string;
+  clan: string;
+  chakraNature: string[];
+  mission: string;
+}
+
+const shinobi: Developer = {
+  name: "Seu Nome Aqui",
   role: "Full Stack Developer",
-  focus: ["React", "TypeScript", "Node.js"],
-  philosophy: "performar bem + manter código limpo + entregar valor",
-  quote: "Mesmo no escuro, todo bug tem um caminho de luz. 🗡️"
+  clan: "Code Village 🏯",
+  chakraNature: ["React", "Node.js", "TypeScript"],
+  mission: "Construir aplicações que transcendem o ordinário",
 };
 
-- 🔭 Atualmente: construindo/iterando projetos Full Stack
-- 🌱 Estudando: **arquitetura, performance e boas práticas**
-- 💬 Pergunte sobre: **React, TypeScript, Node.js**
-- ⚡ Fun fact: eu gosto de refatorar até o código “dançar”
-
-<br/>
-
-<!-- TECH STACK -->
-## ⚔️ Tech Stack (meu arsenal)
+export default shinobi;
+```
 
 <div align="center">
 
-### 🧠 Front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-### 🛰️ Back-end
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-
-### ⚙️ Ferramentas (suporte pra missão)
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+| 🌙 Atributo       | ⚔️ Nível                          |
+| :---------------- | :--------------------------------- |
+| **Frontend**      | ████████████░░ `Sharingan` 👁️      |
+| **Backend**       | ██████████░░░░ `Mangekyō` 🔥       |
+| **TypeScript**    | ███████████░░░ `Rinnegan` 🌀       |
+| **Debug**         | ██████████████ `Byakugan` 🔍       |
+| **Café/Chakra**   | ██████████████ `∞` ☕              |
 
 </div>
 
-<br/>
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- QUICK STATS -->
-## 📈 Minhas métricas (nível do personagem)
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## ⛩️ 〢 Jutsu Arsenal (Tech Stack)
 
+### 🔴 Frontend — *Genjutsu Layer*
 <div align="center">
-  <img
-    height="190em"
-    src="https://github-readme-stats.vercel.app/api?username=dkzinz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
-  />
-  <img
-    height="190em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&text_color=c9d1d9"
-  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d0d0d" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0b0f1a&ring=00D4FF&fire=7c3aed&currStreakLabel=00D4FF&sideNums=C9D1D9"
-  />
+### 🟣 Backend — *Ninjutsu Layer*
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/REST_API-FF2D55?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d0d0d" />
 </div>
 
-<br/>
+### 🛠️ Tools — *Kunai & Shuriken*
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
+</div>
 
-<!-- ACTIVITY GRAPH -->
-## 🌑 Contribuições (ritmo do episódio)
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+## 📊 〢 Power Level (GitHub Stats)
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dkzinz&bg_color=0b0f1a&color=00D4FF&line=7c3aed&point=00D4FF&area=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=c9d1d9&ring_color=ff2d55&include_all_commits=true&count_private=true"
+    height="180"
+    alt="stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&text_color=c9d1d9&langs_count=8"
+    height="180"
+    alt="top-langs"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d0d0d&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55"
+    alt="streak"
+  />
+</div>
+
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 〢 Akatsuki Achievements
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"
+    alt="trophies"
+  />
+</div>
+
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
+## 🩸 〢 Blood Trail (Contributions)
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=ff2d55&line=ff2d55&point=8b0000&area=true&area_color=1a0a0a"
+    alt="activity-graph"
+  />
+</div>
+
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ SNAKE GAME ═══════════════ -->
+## 🐍 〢 Serpente do Código
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg"
+    alt="snake"
+  />
+</div>
+
+> ⚠️ **Nota:** Para a snake funcionar, crie um repo com o mesmo nome do seu usuário
+> e adicione um **GitHub Action** que gera a animação.
+> [Tutorial aqui](https://github.com/Platane/snk)
+
+<!-- ═══════════════ SEPARADOR ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════ CONTATO ═══════════════ -->
+## 🔗 〢 Summoning Jutsu (Contato)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/SEU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:seu@email.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.gg/SEU-SERVIDOR)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://seu-portfolio.com)
+
+</div>
+
+<!-- ═══════════════ CITAÇÃO FINAL ═══════════════ -->
+<div align="center">
+  <br/>
+
+  > *"A person grows up when he has to. When he stops depending on others
+  > and stands on his own two feet."*
+  > — **Pain / Nagato** 🌧️
+
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer&text=🌑%20闇%20%7C%20The%20darkness%20compiles%20without%20errors&fontSize=14&fontColor=ff2d55&animation=fadeIn"
+    width="100%"
+    alt="footer"
+  />
+
+</div>
+
+<!-- ═══════════════ VISITOR COUNTER ═══════════════ -->
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=ff2d55&labelColor=0d0d0d&label=👁️+Sharingan+Activated"
+    alt="views"
   />
 </div>
 
 <br/>
-
-<!-- FEATURED PROJECTS -->
-## 🎌 Projetos em destaque (missões)
-
 <div align="center">
-
-  <a href="https://github.com/SEU_USERNAME/PROJETO1">
-    <img
-      height="135em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PROJETO1&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
-    />
-  </a>
-
-  <a href="https://github.com/SEU_USERNAME/PROJETO2">
-    <img
-      height="135em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PROJETO2&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
-    />
-  </a>
-
+  <sub>⛩️ Crafted in the shadows • 闇の中で作られた ⛩️</sub>
 </div>
+```
 
-<br/>
+---
 
-<!-- ANIME VIBE FOOTER QUOTE -->
-## 🗯️ “Condição do Domínio”
+## 📌 Como usar
 
-> Se você também curte front + back, bora trocar ideia: **React / Node.js / TypeScript**.
+| Passo | Ação |
+|-------|------|
+| **1** | Copie **todo** o código acima |
+| **2** | Crie/edite o arquivo `README.md` no **repo com o mesmo nome do seu usuário** |
+| **3** | Substitua **`SEU-USUARIO`** pelo seu username do GitHub (Ctrl+H) |
+| **4** | Substitua links de contato pelos seus reais |
+| **5** | Commit e push → veja a mágica no seu perfil |
 
-<br/>
+## 🎨 Paleta usada
 
-<!-- CONTACT -->
-## 📡 Conecte-se comigo
+```
+Background   → #0d0d0d  (quase preto absoluto)
+Primary      → #ff2d55  (crimson / sangue)
+Secondary    → #8b0000  (dark red)
+Text         → #c9d1d9  (cinza claro)
+Accent Theme → tokyonight (stats cards)
+```
 
-<div align="center">
+## 💡 Dicas extras
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+- **Snake animation**: siga o [Platane/snk](https://github.com/Platane/snk) para gerar o SVG animado automaticamente via GitHub Actions
+- **Troque a citação**: substitua por sua frase de anime favorita
+- **Adicione mais techs**: basta duplicar uma linha de badge e trocar logo/cor
+- **GitHub Action para stats**: os cards do `github-readme-stats` atualizam sozinhos, sem precisar de action extra
 
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+> *"Those who break the rules are scum, but those who abandon their code are worse than scum."* — Obito, provavelmente 🌀
 
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/SEU_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</div>
-
-<br/>
-<!-- VISITORS -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkzinz&color=00D4FF&style=for-the-badge&label=VISITANTES"/>
-</div>
-
-<!-- ANIME DARK FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1f1147,100:00D4FF&height=130&section=footer&text=&animation=fadeIn&fontAlignY=50" />
+Se quiser que eu adicione seções extras (projetos em destaque, roadmap de aprendizado, widget de Spotify, etc.), é só pedir! 🩸
