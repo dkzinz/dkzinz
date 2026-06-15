@@ -170,7 +170,7 @@ const developer = {
 <br/>
 
 <!-- GitHub Stats -->
-<a href="https://github.com/SEU-USERNAME">
+<a href="https://github.com/dkzinz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&text_color=c9d1d9&border_color=6c3082&hide_border=false&langs_count=8"/>
 </a>
@@ -178,7 +178,7 @@ const developer = {
 <br/><br/>
 
 <!-- Streak Stats -->
-<a href="https://github.com/SEU-USERNAME">
+<a href="https://github.com/dkzinz">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkzinz&theme=midnight-purple&background=0d1117&ring=b388ff&fire=e4c1f9&currStreakLabel=b388ff&sideLabels=b388ff&border=6c3082" alt="GitHub Streak"/>
 </a>
 
