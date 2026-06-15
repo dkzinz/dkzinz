@@ -55,6 +55,7 @@ const developer = {
 
     motto: "In the darkness of the terminal, the code shines brightest ✧"
 };
+```
 
 <br/>
 
