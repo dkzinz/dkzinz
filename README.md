@@ -1,6 +1,4 @@
-Aqui está um README.md com temática anime dark, completo e cheio de estilo! 🌙✨
 
-```markdown
 <div align="center">
   
   <img src="https://i.imgur.com/xfF8rFj.gif" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
@@ -13,7 +11,6 @@ Aqui está um README.md com temática anime dark, completo e cheio de estilo! �
 
 <div align="center">
   
-  ```
   ⚔️ 「限界を超える」⚔️
   ```
 
