@@ -1,4 +1,6 @@
-markdown
+Aqui está um README.md com temática anime dark, completo e cheio de estilo! 🌙✨
+
+```markdown
 <div align="center">
   
   <img src="https://i.imgur.com/xfF8rFj.gif" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
@@ -10,14 +12,16 @@ markdown
 ---
 
 <div align="center">
-
+  
+  ```
   ⚔️ 「限界を超える」⚔️
+  ```
 
 </div>
 
 ## 🗡️ Sobre o Shinobi do Código
 
-typescript
+```typescript
 const shinobi = {
   name: "Seu Nome",
   rank: "Full Stack Developer - Rank S",
@@ -30,6 +34,7 @@ const shinobi = {
   mission: "Dominar o mundo da programação, uma linha de código por vez ⚔️",
   quote: "明日の自分は今日より強い"
 };
+```
 
 ---
 
