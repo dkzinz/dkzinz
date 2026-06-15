@@ -265,15 +265,6 @@ const developer = {
 
 <br/><br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dkzinz/dkzinz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dkzinz/dkzinz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-USERNAME/dkzinz/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=dkzinz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
