@@ -1,20 +1,26 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
----
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=520&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript;Transformando+ideias+em+código+✨;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+  </a>
+</div>
 
-## 👨‍💻 Sobre Mim
+<br/>
 
-```javascript
-const aboutMe = {
-  name: "Seu Nome",
-  role: "Full Stack Developer",
-  technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
-    backend: ["Node.js"],
-    tools: ["Git", "VS Code", "npm", "yarn"]
-  },
-  currentFocus: "Criando aplicações web modernas e performáticas",
-  funFact: "Sempre em busca do código mais limpo e eficiente ⚡"
+<!-- ABOUT ME -->
+## 🧑‍💻 Sobre mim
+
+```js
+const dev = {
+    nome: "Seu Nome",
+    papel: "Desenvolvedor Full Stack",
+    localização: "Brasil 🇧🇷",
+    aprendendo: ["Next.js", "Docker", "PostgreSQL"],
+    curiosidade: "Eu debugo mais do que codifico 😅",
+    objetivo: "Construir soluções que impactam pessoas"
 };
