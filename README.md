@@ -202,7 +202,7 @@ const developer = {
 <br/>
 
 <a href="https://github.com/SEU-USERNAME/projeto-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=Lostx.dev-1&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PXBR-Tools-1&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
 <a href="https://github.com/SEU-USERNAME/projeto-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=REPO-NAME-2&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
