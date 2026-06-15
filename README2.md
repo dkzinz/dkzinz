@@ -159,21 +159,6 @@ Aqui estão as ferramentas e tecnologias que uso para construir aplicações com
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<a href="https://github.com/hinokame07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hinokame07&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/hinokame07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokame07&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</a>
-
-<br>
-
-![Linha de atividade](https://github-readme-activity-graph.vercel.app/graph?username=hinokame07&theme=dracula&hide_border=true)
-
----
-
 ### 🚀 Projetos em Destaque
 
 Aqui estão alguns projetos que representam bem o meu trabalho como Full Stack.
