@@ -39,7 +39,7 @@
 
 | 🥷 **Status do Shinobi** | 📜 **Detalhes** |
 | :--- | :--- |
-| **Nome** | Seu Nome Aqui |
+| **Nome** | Lostx |
 | **Classe** | Full Stack Developer |
 | **Vila Oculta** | TypeScript, React & Node.js |
 | **Missão Rank-S** | Construir aplicações que transcendem o ordinário |
