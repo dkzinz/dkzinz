@@ -154,24 +154,6 @@ export default shinobi;
 
 <!-- ═══════════════ SEPARADOR ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════ SNAKE GAME ═══════════════ -->
-## 🐍 〢 Serpente do Código
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/SEU-USUARIO/dkzinz/output/github-contribution-grid-snake-dark.svg"
-    alt="snake"
-  />
-</div>
-
-> ⚠️ **Nota:** Para a snake funcionar, crie um repo com o mesmo nome do seu usuário
-> e adicione um **GitHub Action** que gera a animação.
-> [Tutorial aqui](https://github.com/Platane/snk)
-
-<!-- ═══════════════ SEPARADOR ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════ CONTATO ═══════════════ -->
 ## 🔗 〢 Summoning Jutsu (Contato)
 
