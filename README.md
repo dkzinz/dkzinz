@@ -75,11 +75,11 @@ const persona = {
 <div align="center">
   <img
     height="190em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api?username=dkzinz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&icon_color=7c3aed&text_color=c9d1d9"
   />
   <img
     height="190em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkzinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00D4FF&text_color=c9d1d9"
   />
 </div>
 
