@@ -144,10 +144,6 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
   <br/><b>VS Code</b>
 </td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br/><b>Figma</b>
-</td>
 </tr>
 </table>
 
