@@ -147,7 +147,7 @@ export default shinobi;
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=ff2d55&line=ff2d55&point=8b0000&area=true&area_color=1a0a0a"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dkzinz&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=ff2d55&line=ff2d55&point=8b0000&area=true&area_color=1a0a0a"
     alt="activity-graph"
   />
 </div>
@@ -160,7 +160,7 @@ export default shinobi;
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/SEU-USUARIO/dkzinz/output/github-contribution-grid-snake-dark.svg"
     alt="snake"
   />
 </div>
@@ -205,7 +205,7 @@ export default shinobi;
 <!-- ═══════════════ VISITOR COUNTER ═══════════════ -->
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=ff2d55&labelColor=0d0d0d&label=👁️+Sharingan+Activated"
+    src="https://komarev.com/ghpvc/?username=dkzinz&style=for-the-badge&color=ff2d55&labelColor=0d0d0d&label=👁️+Sharingan+Activated"
     alt="views"
   />
 </div>
