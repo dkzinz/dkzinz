@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Crafting+Code+in+the+Shadows+%E2%9C%A7;%E2%9C%A7+Building+Dreams+with+JavaScript+%E2%9C%A7;%E2%9C%A7+%E9%97%87%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F+%E2%9C%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A7+Crafting+Code+in+the+Shadows+%E2%9C%A7;%E2%9C%A7+Building+Dreams+with+JavaScript+%26+Python+%E2%9C%A7;%E2%9C%A7+%E9%97%87%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F+%E2%9C%A7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -43,8 +43,8 @@ const developer = {
     
     code: {
         frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
-        backend: ["Node.js"],
-        learning: ["Next.js", "PostgreSQL", "Docker"],
+        backend: ["Node.js", "Python"],
+        learning: ["Next.js", "PostgreSQL", "Docker", "FastAPI"],
     },
 
     anime: {
