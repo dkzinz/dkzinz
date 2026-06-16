@@ -122,6 +122,14 @@ const developer = {
   <br/>
   <img src="https://img.shields.io/badge/-★★★★☆-6c3082?style=flat-square&labelColor=0d1117"/>
 </td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br/><b>Python</b>
+  <br/>
+  <img src="https://img.shields.io/badge/-★★★★☆-b388ff?style=flat-square&labelColor=0d1117"/>
+</td>
+
 </tr>
 </table>
 
