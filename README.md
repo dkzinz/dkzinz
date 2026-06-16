@@ -258,14 +258,6 @@ const developer = {
 
 <br/><br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=dkzinz&color=6c3082&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=dkzinz&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
 </div>
 
 <br/>
