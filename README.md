@@ -191,7 +191,7 @@ const developer = {
 
 <br/>
 
-<a href="https://github.com/dkzinz/projeto-1">
+<a href="https://github.com/dkzinz/PXBR-Tools">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkzinz&repo=PXBR-Tools&theme=midnight-purple&bg_color=0d1117&title_color=b388ff&icon_color=6c3082&text_color=c9d1d9&border_color=6c3082" />
 </a>
 <a href="https://github.com/dkzinz/projeto-2">
